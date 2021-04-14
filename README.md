@@ -1,9 +1,9 @@
 # Code_Portfolio_2021_-Updated-
 
 Professional portfolio:
-
-https://jacobblack1.github.io/Homework-Repository/
-
+ 
+ https://jacobblack1.github.io/Code_Portfolio_2021_-Updated-/
+ 
 The portfolio contains:
 
 1) project tab
